@@ -32,7 +32,7 @@ comments. It compares the ratio of verbs, nouns, adjectives, and other parts of 
 is, and therefore how readable it is.
 
 ### Function and Variable naming
-Here, our goal is to enforce some level of meaning in the naming of functions and variables for the sake of readability. It discorages short, abreviation heavy naming schemes and rewards those that use full words that are easy to understand.
+Here, our goal is to enforce some level of meaning in the naming of functions and variables for the sake of readability. It discorages short, abbreviation heavy naming schemes and rewards those that use full words that are easy to understand.
 
 ### Function Size
 It is considered good practice to split large tasks up into sets of smaller functions. In this metric, we report a score based
